@@ -1,0 +1,52 @@
+body {
+    background-color: #f5f2d0;
+    text-align: center;
+    font-family: Tahoma;
+    margin: 7%;
+}
+
+h1 {
+    padding-top: 25px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+p {
+
+}
+
+section {
+    border-bottom: solid;
+    padding-bottom: 20px;
+    border-color: #D3D3D3;
+    
+}
+
+img {
+    border-radius: 2em;
+}
+
+#Music {
+    
+}
+.music {
+    padding: 2 em;
+    height: 300px;
+}
+
+#Animal {
+    
+}
+.Animal{
+    height: 300px;
+}
+
+#Pewdiepie {
+    /* background-color: ; */
+
+}
+
+#Water {
+    /* background-color: #00FFFF; */
+    
+}
